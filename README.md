@@ -1,11 +1,8 @@
-ts7800 Buildroot configuration
-==============================
-
-This repository provides configuration files and instructions to build an
-Linux kernel, busybox-based initramfs, and a full Arch Linux
-installation.
-
-Start by cloning this repository.
+Unmaintained
+============
+We no longer need to develop on or maintain any TS-7800, as such no further work
+is likely to be done on this repository. Forks are welcome, but the repository
+is archived.
 
 Partition an SD card
 --------------------
